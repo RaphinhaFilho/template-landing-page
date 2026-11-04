@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  /* Font Family */
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+
+  /* Perfil 1: Clean (Column) */
+  --color-indigo-navy: #111a4a;
+  --color-cloud-canvas: #f6f6f8;
+  --color-signal-orange: #ec652b;
+  --color-silver-lining: #e3e4e8;
+
+  /* Perfil 2: Dark (Lamborghini) */
+  --color-carbony-black: #202020;
+  --color-giallo-vivo: #ffc000;
+  --color-graphite-border: #494949;
+
+  /* Perfil 3: Warm (MindMarket) */
+  --color-cream-paper: #f5f1e4;
+  --color-ink-black: #2c2e2a;
+  --color-fresh-grass: #8ed462;
+  --color-coral-pop: #ff705d;
+
+  /* Custom Radii Shortcuts */
+  --radius-clean: 8px;
+  --radius-dark: 0px;
+  --radius-warm: 50px;
+}

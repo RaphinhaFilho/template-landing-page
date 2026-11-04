@@ -1,0 +1,13 @@
+node_modules/
+.env
+index.html
+DESIGN.md
+
+# Ignorar pastas de testes locais
+barbearia-*
+*-novo/
+pizza-*
+mascotte-*
+pet-*
+pompom-*
+teste-*
